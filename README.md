@@ -1,4 +1,4 @@
-# Tetris
+# Biquadris
 A modified version of Tetris implemented using object-oriented programming.
 - Used factory Design Pattern.
 
